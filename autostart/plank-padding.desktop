@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Plank Padding
+Comment=Adds padding between Plank dock and screen edge
+Exec=/home/uxergin/.local/bin/plank-padding.py
+Hidden=false
+NoDisplay=true
+X-GNOME-Autostart-enabled=true
+X-XFCE-Autostart-Override=true
+X-GNOME-Autostart-Phase=Panel
+StartupNotify=false

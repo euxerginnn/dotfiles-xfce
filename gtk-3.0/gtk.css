@@ -1,0 +1,19 @@
+/* Estilo macOS - mais espaçamento na headerbar */
+headerbar {
+    min-height: 38px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+headerbar .titlebar button,
+headerbar button.titlebutton {
+    min-height: 16px;
+    min-width: 16px;
+    padding: 4px;
+    margin: 0 2px;
+}
+
+/* Janelas com CSD - margem interna */
+decoration {
+    margin: 6px;
+}
